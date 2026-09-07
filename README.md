@@ -1,2 +1,3 @@
 # AI_DA_Santiago
-Practica
+Practica 
+Soy Santiago y mi dataset es de futbol.
